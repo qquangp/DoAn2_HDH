@@ -1,0 +1,1 @@
+asmlinkage long pidtoname(int pid, char* buf, int len);
